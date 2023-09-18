@@ -27,7 +27,7 @@ programa
 			escreva ("quarta")
 			pare
 
-     caso 5:
+                        caso 5:
 			escreva ("quinta")
 			pare
 
